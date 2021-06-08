@@ -1,0 +1,6 @@
+
+BTag -> Ocorrencia de jatos a partir de muões B (1 se for a partir de muões, 0 se nao)
+
+MissingET_MET -> Momento em falta
+
+Scalar_HT -> Momento total em falta (norma)

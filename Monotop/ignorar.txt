@@ -1,0 +1,30 @@
+Missing ET fazer plot (encontrar um corte onde apenas deito fora BKG e nao deito fora sinal nenhum)
+0 Leptões
+Pelo menos 1 B (maybe)
+FatJet1 > 0
+
+Usar os sinais concatenados. COmeçar com um deles
+
+Convencer-me dos cortes, fazer plots das features, redes etc
+
+
+
+
+Weights antes de mexermos -> probabilidade da SAMPLE em si (o evento de background em si)
+Nos dividimos cada Weights de cada evento (row) pelo numero total de rows na determinada sample!
+Por exemplo, se uma sample tem probabilidade de 10% de acontecer e temos 10 eventos la dentro. 
+Cada evento deverá ter um Weights de 1% de modo a que o dataset tenha uma distribuição estatistica accurate.
+
+
+EX: probabiliade da sample TTBar será a probabilidade de ser TTBar e ser aquele evento especifico a dividir pelo numero de eventos total. 
+Isto é uma probabiliade condicionar
+
+
+
+SE TA  ADAR OVERFITTING
+- Simplificar modelo
+- Layers de Regulação: Dropout, Batch normalization...
+
+
+
+
